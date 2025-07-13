@@ -13,3 +13,9 @@
       <a href="cities.html">City Forecast</a>
     </nav>
   </header>
+  <main>
+    <section class="welcome">
+      <h2>Welcome to the Weather Portal</h2>
+      <p>Check live weather updates, forecasts, and details for cities around the world.</p>
+    </section>
+  </main>
