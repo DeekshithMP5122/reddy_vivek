@@ -19,3 +19,8 @@
       <p>Check live weather updates, forecasts, and details for cities around the world.</p>
     </section>
   </main>
+  <footer>
+    <p>© 2025 Weather App</p>
+  </footer>
+</body>
+</html>
